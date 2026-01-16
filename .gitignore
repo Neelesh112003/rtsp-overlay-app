@@ -1,0 +1,24 @@
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+*.db
+
+# Node
+node_modules/
+dist/
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
