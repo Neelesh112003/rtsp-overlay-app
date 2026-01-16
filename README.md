@@ -12,7 +12,7 @@ A full-stack web application for real-time video streaming with customizable ove
 
 ---
 
-## ✨ Features
+## Features
 
 -  RTSP stream playback
 -  Text and image overlays
@@ -135,6 +135,7 @@ db.overlays.find().pretty()
 
 ---
 
-## 👤 Author
+## Author
 
 **Neelesh Gupta**
+
